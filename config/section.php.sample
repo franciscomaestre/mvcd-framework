@@ -1,0 +1,48 @@
+<?php
+
+//Configuración de la Base de Datos
+define('CLUSTER_HOST_REFERENCE','192.168.1.147');
+define('CLUSTER_COUNTER_MAX',1024);
+define('DB_USER','root');
+define('DB_PASSWORD','');
+define('DB_NAME','grupeo');
+
+/*define('DB_USER','root');
+  define('DB_HOST','5.196.83.53');
+  define('DB_PORT',3306);
+  define('DB_PASSWORD','f5f235a2e');
+  define('DB_NAME','grupeo'); */
+
+
+//Configuración de Mencache
+define('MC_ENABLE', false);
+
+//Configuracion de Paypal
+define('PAYPAL_SANDBOX', true);
+define('PAYPAL_APIUSERNAME', 'grupeo_api1.grupeo.com');
+define('PAYPAL_APIPASSWORD', 'RAGHMCJUXN8JS8KJ');
+define('PAYPAL_APISIGNATURE', 'AkLwJEDHS-8TrdjquMxsT40jEBtbAc6gjmKZFNbjtML7UUvPJjohZAsi');
+
+//Redsys
+define('REDSYS_URL', 'https://sis-t.sermepa.es:25443/sis/realizarPago');
+define('REDSYS_MERCHANTCODE', 327234688);
+define('REDSYS_MERCHANTNAME', 'Grupeo');
+define('REDSYS_TERMINAL', 1);
+define('REDSYS_SECRET', 'qwertyasdf0123456789');
+
+//Debug
+define('DEBUG', true);
+define('LOG_DEBUGENABLED', false);
+
+
+
+
+
+
+
+
+
+
+
+
+
