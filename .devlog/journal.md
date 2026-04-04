@@ -1,2 +1,3 @@
 - 2026-03-15 14:25 | update: progreso (#2)
 - 2026-03-23 14:33 | wip: experimento del dia (#10)
+- 2026-04-04 12:04 | update: progreso (#18)
