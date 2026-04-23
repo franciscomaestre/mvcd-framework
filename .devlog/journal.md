@@ -2,3 +2,4 @@
 - 2026-03-23 14:33 | wip: experimento del dia (#10)
 - 2026-04-04 12:04 | update: progreso (#18)
 - 2026-04-14 11:10 | chore: limpieza (#32)
+- 2026-04-23 09:21 | fix: typo en notas (#48)
