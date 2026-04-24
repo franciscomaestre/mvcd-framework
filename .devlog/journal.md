@@ -3,3 +3,4 @@
 - 2026-04-04 12:04 | update: progreso (#18)
 - 2026-04-14 11:10 | chore: limpieza (#32)
 - 2026-04-23 09:21 | fix: typo en notas (#48)
+- 2026-04-24 16:36 | tweak: ajuste menor (#49)
