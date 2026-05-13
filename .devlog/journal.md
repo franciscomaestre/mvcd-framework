@@ -5,3 +5,4 @@
 - 2026-04-23 09:21 | fix: typo en notas (#48)
 - 2026-04-24 16:36 | tweak: ajuste menor (#49)
 - 2026-05-03 19:03 | fix: typo en notas (#62)
+- 2026-05-13 13:43 | tweak: ajuste menor (#75)
