@@ -7,3 +7,4 @@
 - 2026-05-03 19:03 | fix: typo en notas (#62)
 - 2026-05-13 13:43 | tweak: ajuste menor (#75)
 - 2026-05-14 21:05 | fix: typo en notas (#77)
+- 2026-05-24 11:20 | chore: limpieza (#87)
